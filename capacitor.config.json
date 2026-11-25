@@ -1,0 +1,13 @@
+{
+  "appId": "com.mathmaster.app",
+  "appName": "Math Master",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "backgroundColor": "#f4f5fb",
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
